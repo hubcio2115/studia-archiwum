@@ -1,0 +1,25 @@
+.A {
+  border: blue solid 3px;
+  background-color: lightblue;
+  right: 40px;
+  left: 0;
+  top: 0;
+}
+
+.B {
+  border: red solid 3px;
+  background-color: #fae3e3;
+  right: 0;
+  left: 40px;
+  top: 100px;
+}
+
+.A,
+.B {
+  position: absolute;
+  margin: auto;
+  width: 250px;
+  height: 150px;
+  bottom: 0;
+  text-align: center;
+}

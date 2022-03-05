@@ -1,0 +1,83 @@
+<mxfile host="65bd71144e">
+    <diagram id="Y2405kr83HNlSQvASsk2" name="Page-1">
+        <mxGraphModel dx="2002" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SJkdV_ian_6C4vrEJexx-1" target="SJkdV_ian_6C4vrEJexx-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-1" value="&lt;div&gt;pobierz a, b, c&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;delta &amp;lt;-- (b^2) - (4 * a * c)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="138" y="40" width="176" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SJkdV_ian_6C4vrEJexx-4" target="SJkdV_ian_6C4vrEJexx-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SJkdV_ian_6C4vrEJexx-4" target="SJkdV_ian_6C4vrEJexx-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-4" value="delta &amp;lt; 0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="186" y="130" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SJkdV_ian_6C4vrEJexx-6" target="SJkdV_ian_6C4vrEJexx-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-6" value="wypisz &quot;Funkcja nie ma miejsc zerowych&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="14" y="220" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-8" value="Tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="114" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SJkdV_ian_6C4vrEJexx-9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="386" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SJkdV_ian_6C4vrEJexx-9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="514" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-9" value="delta == 0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="346" y="130" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-11" value="Nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="274" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-14" value="Tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="340.5" y="210" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-15" value="Nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="436.5" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SJkdV_ian_6C4vrEJexx-18" target="SJkdV_ian_6C4vrEJexx-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-18" value="x0 &amp;lt;-- (-b) / (2 * a)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="324" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SJkdV_ian_6C4vrEJexx-19" target="SJkdV_ian_6C4vrEJexx-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-19" value="wypisz &quot;Funkcja ma jedno miejsce kwadratowe równe x0&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="258" y="350" width="225" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SJkdV_ian_6C4vrEJexx-22" target="SJkdV_ian_6C4vrEJexx-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-22" value="&lt;div&gt;x1 &amp;lt;-- ((-b) - delta//2)) / 2a&lt;/div&gt;&lt;div&gt;x2 &amp;lt;-- ((-b) + delta//2)) / 2a&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="514" y="140" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SJkdV_ian_6C4vrEJexx-23" target="SJkdV_ian_6C4vrEJexx-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-23" value="wypisz &quot;Funkcja ma dwa miejsca kwadratowe równe kolejno x1, x2&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="534" y="240" width="280" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="SJkdV_ian_6C4vrEJexx-25" value="STOP" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="326" y="490" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

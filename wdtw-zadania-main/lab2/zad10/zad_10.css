@@ -1,0 +1,14 @@
+.title {
+  font-weight: bold;
+  font-size: large;
+}
+.underline {
+  text-decoration: underline;
+}
+.underline #bold {
+  font-weight: bold;
+}
+.info {
+  font-size: small;
+  color: red;
+}

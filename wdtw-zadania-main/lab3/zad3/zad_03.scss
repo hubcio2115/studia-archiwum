@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #e8e8e8;
+}
+
+header {
+  background-color: #e7e2da;
+  color: #4f4646;
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 10px;
+  font-size: 20px;
+  box-shadow: 0px 5px 24px 0px rgba(203, 202, 201, 1);
+  margin-bottom: 50px;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+
+  .section {
+    padding: 20px;
+    background-color: #f7f3f3;
+    width: 1000px;
+
+    fieldset {
+      letter-spacing: 5px;
+      border: 1px solid #e6e2dd;
+      padding: 20px;
+
+      legend {
+        color: #86817b;
+        font-size: 20px;
+      }
+      .form-group {
+        width: 500px;
+        text-align: right;
+        margin-bottom: 10px;
+
+        label {
+          text-transform: uppercase;
+          font-weight: bold;
+          color: #4f4646;
+          font-size: 12px;
+        }
+        input {
+          margin-left: 20px;
+          border: 1px solid #f0ede8;
+          width: 250px;
+          padding: 5px;
+        }
+      }
+      .button {
+        display: flex;
+        justify-content: flex-end;
+
+        button {
+          color: white;
+          border: 1px solid #f2eeee;
+          background-color: #c3beb7;
+          text-transform: uppercase;
+          padding: 10px;
+          width: 100px;
+        }
+      }
+    }
+    table {
+      border-collapse: collapse;
+
+      tr {
+        th {
+          text-transform: uppercase;
+          letter-spacing: 5px;
+          text-align: left;
+          padding: 10px;
+        }
+        td {
+          padding: 10px;
+          vertical-align: top;
+        }
+      }
+      tr:nth-child(odd) {
+        background-color: #f0ece9;
+      }
+      tr:first-of-type {
+        background-color: #e7e2da;
+        border: 0px;
+        padding: 0;
+      }
+    }
+  }
+  .section:first-of-type {
+    margin-bottom: 50px;
+  }
+}

@@ -1,0 +1,26 @@
+body {
+  ul {
+    list-style-type: decimal;
+
+    li {
+      color: red;
+      ul {
+        list-style-type: lower-alpha;
+
+        li {
+          color: green;
+          font-weight: bold;
+
+          ul {
+            list-style-type: square;
+
+            li {
+              color: blue;
+              font-weight: normal;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+1;Paweł;Olszko;Olsztyn
+2;Hubert;Kowalski;Słupsk
+3;Oskar;Kuśmierek;Łódź

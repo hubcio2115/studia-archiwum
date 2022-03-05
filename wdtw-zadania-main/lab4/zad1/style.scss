@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+.C {
+  border: red solid 5px;
+  background-color: yellow;
+  width: 300px;
+  height: 45px;
+  padding: 20px;
+
+  .A {
+    position: relative;
+    left: 25px;
+
+    .A {
+      .A {
+        .B {
+          .B {
+            .B {
+              .A {
+                .A {
+                  position: relative;
+                  bottom: 3px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .B {
+      position: inherit;
+      bottom: 35px;
+      left: 20px;
+    }
+  }
+}
