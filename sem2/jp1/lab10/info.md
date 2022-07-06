@@ -1,0 +1,1 @@
+Na 10 laboratoriach było kolokwium

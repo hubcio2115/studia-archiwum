@@ -1,0 +1,14 @@
+{
+  "name": "kolokwium-jp2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hubert Kowalski",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "zad1": "node zad1.js",
+    "zad2": "node zad2.js",
+    "zad3": "node zad3.js",
+    "zad4": "node zad4.js"
+  }
+}

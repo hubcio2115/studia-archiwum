@@ -1,0 +1,9 @@
+{
+  "name": "jp2-zadania",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hubcio2115/jp2-zadania.git",
+  "author": "hubcio2115 <kowalski.hubercik1@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}

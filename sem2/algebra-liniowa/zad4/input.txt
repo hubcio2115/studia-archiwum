@@ -1,0 +1,9 @@
+Proszę podać niżej układ równań liniowych w postaci macierzy w formie (w ostatniej kolumnie znajduje się wektor):
+1 2 3 6
+2 3 4 10
+5 6 7 18
+---
+0 2 0 1 10
+5 6 10 9 10
+4 -3 0 1 10
+6 1 -6 -5 10

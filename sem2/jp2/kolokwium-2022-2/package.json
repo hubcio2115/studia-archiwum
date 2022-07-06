@@ -1,0 +1,16 @@
+{
+  "name": "kolokwaium-jp2-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Hubert Kowalski",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "scripts": {
+    "zad1": "node ./src/zad1.js",
+    "zad2": "node ./src/zad2.js",
+    "zad3": "node ./src/zad3.js"
+  }
+}
